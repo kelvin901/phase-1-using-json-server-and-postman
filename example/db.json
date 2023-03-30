@@ -2,13 +2,19 @@
   "articles": [
     {
       "id": 1,
-      "title": "Example Article",
-      "content": "This is an example."
+      "title": "The Nairobian",
+      "content": "Nairobi Artcle"
     },
     {
       "id": 2,
-      "title": "Second Article",
-      "content": "This is also an example."
+      "title": "The Daily Nation",
+      "content": "News Paper"
+    },
+    {
+      "title": "Generade",
+      "content": "Margazine",
+      "id": 3
     }
+  
   ]
 }
